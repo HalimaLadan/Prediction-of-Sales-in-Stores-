@@ -55,13 +55,17 @@ It was observed that out of all the outlet types,  Supermarket type 3 has the hi
 It was also observed that sales outlets located at the tier 3 and 2 type of location have higher sales than that of tier1
 ![image](https://user-images.githubusercontent.com/95732821/157936840-9872629b-d2f1-48b5-a6da-53ab57fbad1e.png)
 
-**Recommendation
+**Recommendation:**
+Based on the findings of this data analyses, the following factors should be considered in order to increase or maximise sales in or store outlet.
 
-For a Retail Store to maximise its sales, and hence have high profits, the Store has to meet the following criterias.
-The store should be a medium sized.
-It should be located in a Tier 3 type of location.
-There shoud be a concentration on Fruits, vegetables and household items.
-Concentrate more on products with low fat content than those with regular fat contents.
-Maintain a very low percent of Item Visibility.
+>- The store should be a medium sized.
+>- It should be located in a Tier 3 type of location.
+>- There shoud be a concentration on Fruits, vegetables and household items.
+>- Concentrate more on products with low fat content than those with regular fat contents.
+>- Maintain a very low percent of Item Visibility.
+
+**Prediction**
+The Random Forest regression model was the best performing model with a r2 score of : The Random forest will predict the sales of a store with almost accurate precision.
+
 
 
