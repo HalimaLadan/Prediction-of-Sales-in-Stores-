@@ -1,19 +1,19 @@
 # **Grocery_Sales_Prediction**
-***
-### **Project1/Coding Dojo BootCamp**
-***
-#### **Project Overview**
+![grocery-1232944__480](https://user-images.githubusercontent.com/95732821/175866422-c6ba097d-fadb-4adc-a77e-9140cd3dd8aa.jpg)
 
-This project is on analysing the trends on sales and the factors that affect sales returns by building a predictive model using existing data and training the model to give predictions on sales returns. This project was completed to fullfill the requirements of the Coding Dojo (Data Science) Boot Camp.
+
+## Overview
+
+A Client wants to open a grocery store and has requested for a descriptive analyses on the trends on sales and the factors that affect sales returns. An also requested for the production a predictive model using existing data and training the model to give predictions on sales returns. 
 ***
 
-#### Description of the Data
+## Description of the Data
 
 Observations
 The dataset contained 12 columns of features: 5 numeric and 7 object categories. Some of these features were not relevant to the prediction of sales and hence were not used.
 
 ***
-#### **Data Cleaning Process**
+## **Data Cleaning Process**
 + Missing values were located and imputed+
 +  Duplicates were identified and dropped+
 + Odd values explored and fixed+
@@ -21,7 +21,7 @@ The dataset contained 12 columns of features: 5 numeric and 7 object categories.
 
 
 ***
-Analysis of the Data
+## Data Analysis
 ***
 Graphical display of Numeric Columns
 
