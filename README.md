@@ -1,4 +1,4 @@
-# **Grocery_Sales_Prediction**
+# **Prediction of Sales in Stores**
 ![grocery-1232944__480](https://user-images.githubusercontent.com/95732821/175866422-c6ba097d-fadb-4adc-a77e-9140cd3dd8aa.jpg)
 
 
